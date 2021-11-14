@@ -6,9 +6,11 @@ This repository contains all the important code and data used in the paper: "The
 
 ## Structure:
 
-As per the above paper we conducted the specificed studies in 10 different cities using the OSMnx library. Since OSMnx uses data from OpenStreetMaps which is constantly being update, we decided to keep a specific version of the data (kept in the Network_Data folder). It is important to note that there are two python files for each city: one where we perform the necessary calculations with the regular city network (files kept in Not_Shuffled_City) and another where we shuffle this network (files kept in Shuffled_city). Finally the Analysis folder contains the code developed to perform post processing of the data and the analysis performed.
+As per the above paper we conducted the specificed studies in 10 different cities using the OSMnx library. Since OSMnx uses data from OpenStreetMaps which is constantly being update, we decided to keep a specific version of the data (kept in the Network_Data folder).
 
-- Network_Data
-- Not_Shuffled_city
-- Shuffled_city
-- Analysis
+- Analysis (code for the important analysis performed)
+- Network Data (json files containing the original city network data used)
+- Not_Shuffled_city (optimal path calculation code for each city network)
+- One_way_fractions_no_shuffle (code for the calculation of the fraction of one way streets in each path for the normal city networks)
+- One_way_fractions_shuffle (code for the calculation of the fraction of one way streets in each path for the shuffled city networks)
+- Shuffled_city (optimal path calculation code for each shuffled city network)
