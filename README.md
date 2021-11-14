@@ -6,7 +6,7 @@ This repository contains all the important code and data used in the paper: "The
 
 ## Structure:
 
-As per the above paper we conducted the specificed studies in 10 different cities using the OSMnx library. Since OSMnx uses data from OpenStreetMaps which is constantly being update, we decided to keep a specific version of the data (unable to upload this because it's larger than what GitHub allows).
+As per the above paper we conducted the specificed studies in 10 different cities using the OSMnx library. Since OSMnx uses data from OpenStreetMaps which is constantly being update, we decided to keep a specific version of the data (unable to upload this because it's larger than what GitHub allows, therefore you can either ask for the JSON's we used or download the most recent versions from OpenStreetMaps).
 
 - Analysis (code for the important analysis performed)
 - Not_Shuffled_city (optimal path calculation code for each city network)
