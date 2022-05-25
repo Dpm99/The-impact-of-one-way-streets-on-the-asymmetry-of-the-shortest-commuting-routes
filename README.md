@@ -2,7 +2,7 @@
 
 This repository contains all the important code and data used in the paper: [Impact of one-way streets on the asymmetry of the shortest commuting routes](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.023053)
 
-### If you use any of the code in this repository please cite the above paper
+### If you find any of the code in this repository useful, please cite the above paper
 
 ## Structure:
 
