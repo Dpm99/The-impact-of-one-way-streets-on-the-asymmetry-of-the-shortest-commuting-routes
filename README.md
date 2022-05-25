@@ -1,6 +1,6 @@
 # The-impact-of-one-way-streets-on-the-asymmetry-of-the-shortest-commuting-routes
 
-This repository contains all the important code and data used in the paper: [The impact of one-way streets on the asymmetry of the shortest commuting routes"](https://arxiv.org/abs/2111.07434)
+This repository contains all the important code and data used in the paper: [Impact of one-way streets on the asymmetry of the shortest commuting routes]([https://arxiv.org/abs/2111.07434](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.023053))
 
 ### If you any of the code in this repository please cite the above paper
 
